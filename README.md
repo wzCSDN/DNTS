@@ -1,2 +1,2 @@
-# TSMT
-This is a PyTorch implementation of the paper: Two-Stage Multi-Task Time Series Prediction for Affiliate Marketing.
+# DNTS
+Dynamic Network-Based Two-Stage Time Series Forecasting for Affiliate Marketing
